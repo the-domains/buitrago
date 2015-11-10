@@ -1,0 +1,23 @@
+name: buitrago
+favicon: null
+layout_spectrum: 0.743174166418612
+typography_spectrum: 0.4252399764955044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7324039910454303
+  lightness: 0.5361432854551822
+  saturation: 0.18029551533982158
+  rhythmicContrast: 0.03507848992012441
+purpose: []
